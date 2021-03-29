@@ -10,7 +10,7 @@ const CoCreateInstagram = {
 	}
 };
 
-CoCreate.api.init({
+api.init({
 	name: CoCreateInstagram.id, 
 	module:	CoCreateInstagram,
 });
