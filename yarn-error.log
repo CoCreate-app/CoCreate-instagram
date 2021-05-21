@@ -1,0 +1,95 @@
+Arguments: 
+  /usr/bin/node /usr/share/yarn/bin/yarn.js add @cocreate/api
+
+PATH: 
+  /home/ubuntu/.rvm/gems/ruby-2.6.3/bin:/home/ubuntu/.rvm/gems/ruby-2.6.3@global/bin:/home/ubuntu/.rvm/rubies/ruby-2.6.3/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/ubuntu/.local/bin:/home/ubuntu/bin:/home/ubuntu/.rvm/bin:/home/ubuntu/.local/bin:/home/ubuntu/bin:/home/ubuntu/.rvm/bin:/home/ubuntu/.rvm/bin:/home/ubuntu/.local/bin:/home/ubuntu/bin:/home/ubuntu/.rvm/bin:/home/ubuntu/.rvm/bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  14.15.4
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/ubuntu/environment/public/CoCreate-plugins/CoCreate-instagram/package.json: Unexpected string in JSON at position 1568
+      at JSON.parse (<anonymous>)
+      at /usr/share/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/share/yarn/lib/cli.js:310:30)
+      at /usr/share/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "@cocreate/instagram",
+    "version": "1.0.0",
+    "description": "A simple instagram component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
+    "keywords": [
+      "instagram",
+      "cocreate",
+      "low-code-framework",
+      "no-code-framework",
+      "cocreatejs",
+      "cocreatejs-component",
+      "cocreate-framework",
+      "no-code",
+      "low-code",
+      "collaborative-framework",
+      "realtime",
+      "realtime-framework",
+      "collaboration",
+      "shared-editing",
+      "html5-framework",
+      "javascript-framework"
+    ],
+    "publishConfig": {
+      "access": "public"
+    },
+    "scripts": {
+      "start": "npx webpack --config webpack.config.js",
+      "build": "NODE_ENV=production npx webpack --config webpack.config.js",
+      "dev": "npx webpack --config webpack.config.js --watch",
+      "docs": "node ./node_modules/@cocreate/docs/src/index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/CoCreate-app/CoCreate-instagram.git"
+    },
+    "author": "CoCreate LLC",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/CoCreate-app/CoCreate-instagram/issues"
+    },
+    "homepage": "https://cocreate.app/docs/instagram",
+    "funding": {
+      "type": "GitHub Sponsors ❤",
+      "url": "https://github.com/sponsors/CoCreate-app"
+    },
+    "main": "./src/index.js",
+    "devDependencies": {
+      "@babel/core": "^7.9.6",
+      "@babel/preset-env": "^7.9.6",
+      "babel-loader": "^8.1.0",
+      "clean-webpack-plugin": "^3.0.0",
+      "html-webpack-plugin": "^4.5.0",
+      "mini-css-extract-plugin": "^1.5.0"
+      "uglifyjs-webpack-plugin": "^2.2.0",
+      "webpack": "^5.24.4",
+      "webpack-cli": "^4.5.0",
+      "webpack-log": "^3.0.1",
+      "file-loader": "^6.2.0",
+      "style-loader": "^2.0.0",
+      "terser-webpack-plugin": "^5.1.1"
+    },
+    "dependencies": {
+      "@cocreate/docs": "^1.0.3"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
