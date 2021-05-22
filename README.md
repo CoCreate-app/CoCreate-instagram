@@ -19,14 +19,15 @@ For a complete guide and working demo refer to the [doumentation](https://cocrea
 <script src="https://cdn.cocreate.app/instagram/latest/CoCreate-instagram.min.js"></script>
 ```
 
-```html
-<script src="https://cdn.cocreate.app/instagram/latest/CoCreate-instagram.min.css"></script>
-```
-
 ## NPM
 
 ```shell
 $ npm install @cocreate/instagram
+```
+## Yarn
+
+```shell
+$ Yarn add @cocreate/instagram
 ```
 
 # Table of Contents
