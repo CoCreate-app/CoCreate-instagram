@@ -2,10 +2,12 @@
 
 A simple instagram component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API. Take it for a spin in our [playground!](https://cocreate.app/docs/instagram)
 
-![GitHub file size in bytes](https://img.shields.io/github/size/CoCreate-app/CoCreate-instagram/dist/CoCreate-instagram.min.js?label=minified%20size&style=for-the-badge)
-![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-instagram?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/CoCreate-app/CoCreate-instagram?style=for-the-badge)
-![GitHub labels](https://img.shields.io/github/labels/CoCreate-app/CoCreate-instagram/help%20wanted?style=for-the-badge)
+![minified](https://img.badgesize.io/https://cdn.cocreate.app/instagram/latest/CoCreate-instagram.min.js?style=flat-square&label=minified&color=orange)
+![gzip](https://img.badgesize.io/https://cdn.cocreate.app/instagram/latest/CoCreate-instagram.min.js?compression=gzip&style=flat-square&label=gzip&color=yellow)
+![brotli](https://img.badgesize.io/https://cdn.cocreate.app/instagram/latest/CoCreate-instagram.min.js?compression=brotli&style=flat-square&label=brotli)
+![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-instagram?style=flat-square)
+![License](https://img.shields.io/github/license/CoCreate-app/CoCreate-instagram?style=flat-square)
+![Hiring](https://img.shields.io/static/v1?style=flat-square&label=&message=Hiring&color=blueviolet)
 
 ![CoCreate-instagram](https://cdn.cocreate.app/docs/CoCreate-instagram.gif)
 
@@ -19,15 +21,20 @@ For a complete guide and working demo refer to the [doumentation](https://cocrea
 <script src="https://cdn.cocreate.app/instagram/latest/CoCreate-instagram.min.js"></script>
 ```
 
+```html
+<script src="https://cdn.cocreate.app/instagram/latest/CoCreate-instagram.min.css"></script>
+```
+
 ## NPM
 
 ```shell
-$ npm install @cocreate/instagram
+$ npm i @cocreate/instagram
 ```
-## Yarn
+
+## yarn
 
 ```shell
-$ Yarn add @cocreate/instagram
+$ yarn install @cocreate/instagram
 ```
 
 # Table of Contents
