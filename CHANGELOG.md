@@ -1,3 +1,11 @@
+## [1.0.9](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.0.8...v1.0.9) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([0aaed92](https://github.com/CoCreate-app/CoCreate-instagram/commit/0aaed929ce85fff639495b44836afd2ee2625c2a))
+* remove yarn.lock ([4a1156e](https://github.com/CoCreate-app/CoCreate-instagram/commit/4a1156e2104e480e41b3cbab7eaa59f3cd641918))
+
 ## [1.0.8](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.0.7...v1.0.8) (2021-07-10)
 
 
