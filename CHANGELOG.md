@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.0.11...v1.1.0) (2021-07-28)
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([7545ac9](https://github.com/CoCreate-app/CoCreate-instagram/commit/7545ac9d837ac24f869d22f32c91853403f55a60))
+
 ## [1.0.11](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.0.10...v1.0.11) (2021-07-17)
 
 
