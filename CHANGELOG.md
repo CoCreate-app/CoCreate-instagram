@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.0...v1.1.1) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([3c01860](https://github.com/CoCreate-app/CoCreate-instagram/commit/3c018605287c2d573c4eae9f55f1ed41b7f936d3))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.0.11...v1.1.0) (2021-07-28)
 
 
