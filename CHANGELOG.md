@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.1...v1.1.2) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([1f1c2a8](https://github.com/CoCreate-app/CoCreate-instagram/commit/1f1c2a8a17ded86e2ed9023fb462de1598a66238))
+* update data-fullscreen to fullscreen ([e1c683e](https://github.com/CoCreate-app/CoCreate-instagram/commit/e1c683e597ea0b3c3c2bd4e29f314b50f40bddca))
+
 ## [1.1.1](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.0...v1.1.1) (2021-07-28)
 
 
