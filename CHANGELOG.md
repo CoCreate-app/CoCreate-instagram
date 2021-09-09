@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.10...v1.1.11) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([cb970b3](https://github.com/CoCreate-app/CoCreate-instagram/commit/cb970b3652cad147e854546343a645b2e0a0c113))
+
 ## [1.1.10](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.9...v1.1.10) (2021-09-08)
 
 
