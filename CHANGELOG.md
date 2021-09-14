@@ -1,3 +1,10 @@
+## [1.1.16](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.15...v1.1.16) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([965790d](https://github.com/CoCreate-app/CoCreate-instagram/commit/965790d368cc7e096139e6c6142ba1136f0d392b))
+
 ## [1.1.15](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.14...v1.1.15) (2021-09-13)
 
 
