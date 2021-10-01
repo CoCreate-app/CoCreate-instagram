@@ -1,3 +1,10 @@
+## [1.1.20](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.19...v1.1.20) (2021-10-01)
+
+
+### Bug Fixes
+
+* update packages ([c84cf89](https://github.com/CoCreate-app/CoCreate-instagram/commit/c84cf891dd3612938b9cec886578a238abfbb9e8))
+
 ## [1.1.19](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.18...v1.1.19) (2021-10-01)
 
 
