@@ -21,7 +21,7 @@ npm manifest:
   {
     "name": "@cocreate/instagram",
     "version": "1.1.24",
-    "description": "A simple instagram component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
+    "description": "A simple instagram component in vanilla javascript. Easily configured using HTML5 attributes and/or JavaScript API.",
     "keywords": [
       "instagram",
       "cocreate",
