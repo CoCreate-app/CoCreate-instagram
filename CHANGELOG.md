@@ -1,3 +1,10 @@
+## [1.1.31](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.30...v1.1.31) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([3f2c54d](https://github.com/CoCreate-app/CoCreate-instagram/commit/3f2c54d5c3b1aafe31d947814e91acf34796f05a))
+
 ## [1.1.30](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.29...v1.1.30) (2021-10-15)
 
 
