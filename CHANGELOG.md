@@ -1,3 +1,10 @@
+## [1.1.45](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.44...v1.1.45) (2021-11-20)
+
+
+### Bug Fixes
+
+* updated script tags and link tags ([8f9475f](https://github.com/CoCreate-app/CoCreate-instagram/commit/8f9475fbe944422f7579455c41f83e67e2bd3a9e))
+
 ## [1.1.44](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.43...v1.1.44) (2021-11-20)
 
 
