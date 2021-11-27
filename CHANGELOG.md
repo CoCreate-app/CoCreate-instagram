@@ -1,3 +1,10 @@
+## [1.1.49](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.48...v1.1.49) (2021-11-27)
+
+
+### Bug Fixes
+
+* update docs api and cocreateJS script ([62dddc2](https://github.com/CoCreate-app/CoCreate-instagram/commit/62dddc265e296a7426446ed4bcd26bfedfc270cf))
+
 ## [1.1.48](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.47...v1.1.48) (2021-11-26)
 
 
