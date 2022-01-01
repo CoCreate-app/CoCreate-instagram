@@ -1,3 +1,10 @@
+## [1.1.54](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.53...v1.1.54) (2022-01-01)
+
+
+### Bug Fixes
+
+* removed data- from attributes ([19fb897](https://github.com/CoCreate-app/CoCreate-instagram/commit/19fb897874c5b5f8143a27136b453261f0ab6bf5))
+
 ## [1.1.53](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.52...v1.1.53) (2021-12-15)
 
 
