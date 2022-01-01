@@ -1,3 +1,10 @@
+## [1.1.55](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.54...v1.1.55) (2022-01-01)
+
+
+### Bug Fixes
+
+* get-value attribute value now supports a selector added # to all values currently in get-value attributes ([0b8ade3](https://github.com/CoCreate-app/CoCreate-instagram/commit/0b8ade38ed1e9b55197a52ef780f4757eb05c9d7))
+
 ## [1.1.54](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.53...v1.1.54) (2022-01-01)
 
 
