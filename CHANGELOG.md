@@ -1,3 +1,10 @@
+## [1.1.57](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.56...v1.1.57) (2022-02-03)
+
+
+### Bug Fixes
+
+* replaced show and hide class hidden with attribute hidden ([38ba64f](https://github.com/CoCreate-app/CoCreate-instagram/commit/38ba64f6b8254b1a4fbf222af92721e8595a78b4))
+
 ## [1.1.56](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.55...v1.1.56) (2022-02-01)
 
 
