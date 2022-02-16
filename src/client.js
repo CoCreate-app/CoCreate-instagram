@@ -1,16 +1,13 @@
 import api from '@cocreate/api'
-const CoCreateInstagram = {
-	id: 'instagram',
-	actions: [
-		'getUserProfile'
-	],
 
-	render_getUserProfile: function(data) {
-		console.log(data)
-	}
+const CoCreateInstagram = {
+	name: 'instagram',
+	actions: {
+		getUserProfile: {}
+	},
 };
 
 api.init({
-	name: CoCreateInstagram.id, 
+	name: CoCreateInstagram.name, 
 	module:	CoCreateInstagram,
 });

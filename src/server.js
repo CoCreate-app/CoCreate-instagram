@@ -5,13 +5,13 @@ const api = require('@cocreate/api');
 class CoCreateInstagram {
 	constructor(wsManager) {
 		this.wsManager = wsManager;
-		this.module_id = "instagram";
+		this.moduleName = "instagram";
 		this.init();
 	}
 
 	init() {
 		if (this.wsManager) {
-			this.wsManager.on(this.module_id, (socket, data) => this.sendinstagram(socket, data));
+			this.wsManager.on(this.moduleName, (socket, data) => this.sendinstagram(socket, data));
 		}
 	}
 
@@ -40,7 +40,7 @@ class CoCreateInstagram {
 				'data': 'testing success',
 			};
 
-			api.send_response(this.wsManager, socket, { "type": type, "response": response }, this.module_id);
+			api.send_response(this.wsManager, socket, { "type": type, "response": response }, this.moduleName);
 		} catch (error) {
 			this.handleError(socket, type, error)
 		}
@@ -51,7 +51,7 @@ class CoCreateInstagram {
 			'object': 'error',
 			'data': error.message || error,
 		};
-		api.send_response(this.wsManager, socket, { type, response }, this.module_id);
+		api.send_response(this.wsManager, socket, { type, response }, this.moduleName);
 	}
 }//end Class 
 
