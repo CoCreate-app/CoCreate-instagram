@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.59...v1.2.0) (2022-02-16)
+
+
+### Features
+
+* define request and response functions, if functions are not deifne defualt functions exist that will request and render results. Reduced and improved code quality ([0105997](https://github.com/CoCreate-app/CoCreate-instagram/commit/0105997ede4cc37db654e3795133e8ee3e9eb756))
+
 ## [1.1.59](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.1.58...v1.1.59) (2022-02-10)
 
 
