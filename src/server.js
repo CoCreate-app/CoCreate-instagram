@@ -16,23 +16,40 @@ class CoCreateInstagram {
 	}
 
 	async sendinstagram(socket, data) {
-		let type = data['type'];
-		const params = data['data'];
-
+		let params = data['data'];
+		let environment;
+		let action = data['action'];
+	
 		try {
-			switch (type) {
+			let org = await api.getOrg(data, this.moduleName);
+			if (params.environment){
+				environment = params['environment'];
+				delete params['environment'];  
+			} else {
+			  	environment = org.apis[this.moduleName].environment;
+			}
+			
+			let key = org.apis[this.moduleName][environment];
+			// twitter = require('stripe')(key);
+		} catch (e) {
+			console.log(this.moduleName + " : Error Connect to api", e)
+		}
+	  
+		try {
+			let response
+			switch (action) {
 				case 'getUserProfile':
-					this.getUserProfile(socket, type, params);
+					response = this.getUserProfile(socket, action, params);
 					break;
 			}
-
+			this.wsManager.send(socket, this.moduleName, { action, response })
 		} catch (error) {
-			this.handleError(socket, type, error)
+			this.handleError(socket, action, error)
 		}
 	}
 
 
-	async getUserProfile(socket, type, params) {
+	async getUserProfile(socket, action, params) {
 		try {
 
 			const response = {
@@ -40,18 +57,18 @@ class CoCreateInstagram {
 				'data': 'testing success',
 			};
 
-			api.send_response(this.wsManager, socket, { "type": type, "response": response }, this.moduleName);
+			api.send_response(this.wsManager, socket, { "action": action, "response": response }, this.moduleName);
 		} catch (error) {
-			this.handleError(socket, type, error)
+			this.handleError(socket, action, error)
 		}
 	}
 
-	handleError(socket, type, error) {
+	handleError(socket, action, error) {
 		const response = {
 			'object': 'error',
 			'data': error.message || error,
 		};
-		api.send_response(this.wsManager, socket, { type, response }, this.moduleName);
+		this.wsManager.send(socket, this.moduleName, { action, response })
 	}
 }//end Class 
 
