@@ -9,5 +9,5 @@ const CoCreateInstagram = {
 
 api.init({
 	name: CoCreateInstagram.name, 
-	module:	CoCreateInstagram,
+	component:	CoCreateInstagram,
 });
