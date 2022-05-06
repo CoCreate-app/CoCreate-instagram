@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.3...v1.2.4) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([b3583bd](https://github.com/CoCreate-app/CoCreate-instagram/commit/b3583bd5671c8a1ac10e6dc7346c287391785d1a))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.2...v1.2.3) (2022-02-27)
 
 
