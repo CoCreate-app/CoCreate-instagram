@@ -1,3 +1,10 @@
+## [1.2.9](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.8...v1.2.9) (2022-09-29)
+
+
+### Bug Fixes
+
+* config renameed to CoCreateConfig ([6c1a21d](https://github.com/CoCreate-app/CoCreate-instagram/commit/6c1a21d280a0e8443d05e4f8ae47ebf32e347b76))
+
 ## [1.2.8](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.7...v1.2.8) (2022-09-01)
 
 
