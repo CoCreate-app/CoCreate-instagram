@@ -1,3 +1,10 @@
+## [1.2.16](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.15...v1.2.16) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([b76ee9a](https://github.com/CoCreate-app/CoCreate-instagram/commit/b76ee9a8e486aecb650f39279e1eeab7671614ef))
+
 ## [1.2.15](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.14...v1.2.15) (2022-10-01)
 
 
