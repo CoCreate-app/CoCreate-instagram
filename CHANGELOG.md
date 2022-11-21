@@ -1,3 +1,10 @@
+## [1.2.20](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.19...v1.2.20) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([1698bd3](https://github.com/CoCreate-app/CoCreate-instagram/commit/1698bd31ae19f42373dea25070ad6300fa45324c))
+
 ## [1.2.19](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.18...v1.2.19) (2022-11-21)
 
 
