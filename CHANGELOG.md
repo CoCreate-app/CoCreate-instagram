@@ -1,3 +1,11 @@
+## [1.2.22](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.21...v1.2.22) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([374331a](https://github.com/CoCreate-app/CoCreate-instagram/commit/374331a806a4724390b6189d04111a89756d3840))
+* workflow docs ([2b9c35b](https://github.com/CoCreate-app/CoCreate-instagram/commit/2b9c35b28647560d454d6593a549fe062a07b390))
+
 ## [1.2.21](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.20...v1.2.21) (2022-11-21)
 
 
