@@ -1,3 +1,10 @@
+## [1.2.39](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.38...v1.2.39) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([b97f05a](https://github.com/CoCreate-app/CoCreate-instagram/commit/b97f05a224326b50b0613e7a39b7acfb061e8c00))
+
 ## [1.2.38](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.37...v1.2.38) (2022-12-13)
 
 
