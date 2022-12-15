@@ -1,3 +1,10 @@
+## [1.2.40](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.39...v1.2.40) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([2f3526c](https://github.com/CoCreate-app/CoCreate-instagram/commit/2f3526c0829fc1ac758bb6b1048b3ece42e4af66))
+
 ## [1.2.39](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.38...v1.2.39) (2022-12-13)
 
 
