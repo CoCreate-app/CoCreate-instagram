@@ -1,3 +1,10 @@
+## [1.2.49](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.48...v1.2.49) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([e80c910](https://github.com/CoCreate-app/CoCreate-instagram/commit/e80c910af140e8fbbab291f6c6eb8c055770f907))
+
 ## [1.2.48](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.47...v1.2.48) (2022-12-29)
 
 
