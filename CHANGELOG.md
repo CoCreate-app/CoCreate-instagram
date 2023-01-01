@@ -1,3 +1,10 @@
+## [1.2.51](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.50...v1.2.51) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([26ed636](https://github.com/CoCreate-app/CoCreate-instagram/commit/26ed63607d97a8fc94c05deb1310fb62f5f51b8d))
+
 ## [1.2.50](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.49...v1.2.50) (2022-12-31)
 
 
