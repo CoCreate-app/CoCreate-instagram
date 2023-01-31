@@ -1,3 +1,10 @@
+## [1.2.61](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.60...v1.2.61) (2023-01-31)
+
+
+### Bug Fixes
+
+* bump dependencies ([1009911](https://github.com/CoCreate-app/CoCreate-instagram/commit/10099118ce67d550f864b2afdb4a97a6801ef98b))
+
 ## [1.2.60](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.59...v1.2.60) (2023-01-30)
 
 
