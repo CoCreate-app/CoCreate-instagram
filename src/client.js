@@ -2,12 +2,9 @@ import api from '@cocreate/api'
 
 const CoCreateInstagram = {
 	name: 'instagram',
-	actions: {
+	endPoints: {
 		getUserProfile: {}
 	},
 };
 
-api.init({
-	name: CoCreateInstagram.name, 
-	component:	CoCreateInstagram,
-});
+api.init(CoCreateInstagram);
