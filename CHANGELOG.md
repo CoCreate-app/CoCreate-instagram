@@ -1,3 +1,10 @@
+## [1.2.63](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.62...v1.2.63) (2023-03-15)
+
+
+### Bug Fixes
+
+* actions object renamed to endPoints ([84759c9](https://github.com/CoCreate-app/CoCreate-instagram/commit/84759c91180741b61c66d7f4aa493031e581fdf1))
+
 ## [1.2.62](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.61...v1.2.62) (2023-02-01)
 
 
