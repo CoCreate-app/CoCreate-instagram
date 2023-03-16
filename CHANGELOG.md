@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.63...v1.3.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([d23d5bc](https://github.com/CoCreate-app/CoCreate-instagram/commit/d23d5bcf05d9d83e4eddd0423d94de505ecdfdb8))
+
 ## [1.2.63](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.2.62...v1.2.63) (2023-03-15)
 
 
