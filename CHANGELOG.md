@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.3...v1.4.4) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([3e5e967](https://github.com/CoCreate-app/CoCreate-instagram/commit/3e5e967565394daff1a7d92a44efb15f3489fd65))
+
 ## [1.4.3](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.2...v1.4.3) (2023-04-24)
 
 
