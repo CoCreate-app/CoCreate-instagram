@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.2...v1.4.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* workflow node version updated  16 ([e125095](https://github.com/CoCreate-app/CoCreate-instagram/commit/e1250951b06921e7831f8c8d53553ae852b10563))
+
 ## [1.4.2](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.1...v1.4.2) (2023-04-24)
 
 
