@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.0...v1.4.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([5337a2f](https://github.com/CoCreate-app/CoCreate-instagram/commit/5337a2fea47a088f238b5a8429da1b34c47a9bfb))
+
 # [1.4.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.3.6...v1.4.0) (2023-04-24)
 
 
