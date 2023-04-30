@@ -1,3 +1,12 @@
+## [1.4.5](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.4...v1.4.5) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([8251a0b](https://github.com/CoCreate-app/CoCreate-instagram/commit/8251a0bda90249f92ab0ecf99254952a93c6c393))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([837d2f1](https://github.com/CoCreate-app/CoCreate-instagram/commit/837d2f1f284fc803f27426f649a4d5a33835e7f4))
+* removed toogle fullscreen icons. now using css content ([2894b51](https://github.com/CoCreate-app/CoCreate-instagram/commit/2894b51a5c89c623fefb7e389113c8fc749c5f26))
+
 ## [1.4.4](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.3...v1.4.4) (2023-04-24)
 
 
