@@ -1,3 +1,10 @@
+## [1.4.7](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.6...v1.4.7) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([b18e181](https://github.com/CoCreate-app/CoCreate-instagram/commit/b18e18131e8a13f018b5b0134f9830ad3323b987))
+
 ## [1.4.6](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.5...v1.4.6) (2023-05-01)
 
 
