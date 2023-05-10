@@ -1,3 +1,10 @@
+## [1.4.9](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.8...v1.4.9) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([89a0233](https://github.com/CoCreate-app/CoCreate-instagram/commit/89a0233c2b859200f8e0efd95bf1e22d1f3b59e6))
+
 ## [1.4.8](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.7...v1.4.8) (2023-05-06)
 
 
