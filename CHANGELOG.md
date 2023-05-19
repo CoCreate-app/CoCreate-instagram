@@ -1,3 +1,10 @@
+## [1.4.10](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.9...v1.4.10) (2023-05-19)
+
+
+### Bug Fixes
+
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([c48ae8d](https://github.com/CoCreate-app/CoCreate-instagram/commit/c48ae8d7544f681209a70e97ebd586e7992b9a1f))
+
 ## [1.4.9](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.8...v1.4.9) (2023-05-10)
 
 
