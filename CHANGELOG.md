@@ -1,3 +1,10 @@
+## [1.4.12](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.11...v1.4.12) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([c3b4920](https://github.com/CoCreate-app/CoCreate-instagram/commit/c3b492015991749fbbf88582a6d4095efd8741af))
+
 ## [1.4.11](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.10...v1.4.11) (2023-05-21)
 
 
