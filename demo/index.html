@@ -1,49 +1,44 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+    <head>
+        <title>Instagram</title>
 
-<head>
-    <title>Instagram</title>
+        <style type="text/css">
+            .template {
+                display: none;
+            }
+            .list {
+                display: inline-grid;
+                grid-gap: 30px;
+                margin: 30px 50px;
+            }
+            .list > li {
+                text-decoration: underline;
+                cursor: pointer;
+            }
+        </style>
+        <link rel="manifest" href="/manifest.webmanifest" />
+    </head>
 
-    <style type="text/css">
-        .template {
-            display: none
+    <body>
+        <h1>List of API - Instagram</h1>
+
+        <ul class="list">
+            <li onclick="navigate('getUserProfile')">
+                Go to Instagram profile Users
+            </li>
+        </ul>
+    </body>
+
+    <script>
+        function navigate(name) {
+            if (name) window.location.href = `../demo/${name}.html`;
         }
-        .list {
-            display: inline-grid;
-            grid-gap: 30px;
-            margin: 30px 50px;
-        }
-        .list > li {
-            text-decoration: underline;
-            cursor: pointer;
-        }
-    </style>
-    <link rel="manifest" href="/manifest.webmanifest">
-</head>
+    </script>
 
-<body>
+    <!--CoCreateJS-->
 
-    <h1>List of API - Instagram</h1>
-    
-    <ul class="list">
-        <li onclick="navigate('getUserProfile')">Go to Instagram profile Users</li>
-    </div>
+    <!--CoCreate Plugins-->
 
-</body>
-
-
-<script>
-    
-    function navigate(name){
-        if (name) window.location.href = `../demo/${name}.html`;
-    }
-    
-</script>
-
-<!--CoCreateJS-->
-
-<!--CoCreate Plugins-->
-
-<script src="../dist/CoCreate-instagram.js"></script>
-
+    <script src="../dist/CoCreate-instagram.js"></script>
 </html>
