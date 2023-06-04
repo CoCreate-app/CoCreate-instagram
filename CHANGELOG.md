@@ -1,3 +1,10 @@
+## [1.4.15](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.14...v1.4.15) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([7b0ba64](https://github.com/CoCreate-app/CoCreate-instagram/commit/7b0ba64a6eefeb3f8937c97f9378bdf13e5d682f))
+
 ## [1.4.14](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.13...v1.4.14) (2023-06-04)
 
 
