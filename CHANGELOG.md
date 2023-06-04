@@ -1,3 +1,11 @@
+## [1.4.14](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.13...v1.4.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([3483521](https://github.com/CoCreate-app/CoCreate-instagram/commit/348352188900744f7d9de07fca3893921d3c786c))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([e455871](https://github.com/CoCreate-app/CoCreate-instagram/commit/e455871df13d2b640567404f3085693b063b4191))
+
 ## [1.4.13](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.12...v1.4.13) (2023-06-04)
 
 
