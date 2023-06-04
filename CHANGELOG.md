@@ -1,3 +1,10 @@
+## [1.4.13](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.12...v1.4.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([6b846b1](https://github.com/CoCreate-app/CoCreate-instagram/commit/6b846b1914542f2fbf0988617837f13930c592cc))
+
 ## [1.4.12](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.11...v1.4.12) (2023-06-02)
 
 
