@@ -1,3 +1,10 @@
+## [1.4.17](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.16...v1.4.17) (2023-06-10)
+
+
+### Bug Fixes
+
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([2838435](https://github.com/CoCreate-app/CoCreate-instagram/commit/2838435c09e430bb90583fb47622f8db83bf80b8))
+
 ## [1.4.16](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.15...v1.4.16) (2023-06-10)
 
 
