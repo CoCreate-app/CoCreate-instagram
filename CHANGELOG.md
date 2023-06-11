@@ -1,3 +1,10 @@
+## [1.4.21](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.20...v1.4.21) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([979d4cf](https://github.com/CoCreate-app/CoCreate-instagram/commit/979d4cfe4c322c5e9c8c3d5cd59facae9ef1048c))
+
 ## [1.4.20](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.19...v1.4.20) (2023-06-11)
 
 
