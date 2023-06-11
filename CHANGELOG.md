@@ -1,3 +1,10 @@
+## [1.4.18](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.17...v1.4.18) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([e4fe8be](https://github.com/CoCreate-app/CoCreate-instagram/commit/e4fe8be967b6f8af6842815fdd38153476acfb8e))
+
 ## [1.4.17](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.16...v1.4.17) (2023-06-10)
 
 
