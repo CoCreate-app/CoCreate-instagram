@@ -1,3 +1,11 @@
+## [1.4.24](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.23...v1.4.24) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([ffe67cd](https://github.com/CoCreate-app/CoCreate-instagram/commit/ffe67cd92657ccbfe658324be6493cd66694be4b))
+* testing workflow ([faf3e83](https://github.com/CoCreate-app/CoCreate-instagram/commit/faf3e83c220699089b7d7d866436ecc11ca78df3))
+
 ## [1.4.23](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.22...v1.4.23) (2023-06-11)
 
 
