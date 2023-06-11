@@ -1,3 +1,10 @@
+## [1.4.20](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.19...v1.4.20) (2023-06-11)
+
+
+### Bug Fixes
+
+* @cocreate/cli moved to dependencies ([ca00d4c](https://github.com/CoCreate-app/CoCreate-instagram/commit/ca00d4cd791b09db68eb7226ee7bda5d5737fef1))
+
 ## [1.4.19](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.18...v1.4.19) (2023-06-11)
 
 
