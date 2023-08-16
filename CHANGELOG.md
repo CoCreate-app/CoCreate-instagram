@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.29...v1.5.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([059f7cc](https://github.com/CoCreate-app/CoCreate-instagram/commit/059f7cca22b2b8781f0ef30262be3e1fdb8661ba))
+* replace -target -selector ([2cd4593](https://github.com/CoCreate-app/CoCreate-instagram/commit/2cd45939ecaabcb0eba494b3e0b788b7669d5574))
+* webpack.config and package.json make use of mode=production instead of process.env ([30dcf56](https://github.com/CoCreate-app/CoCreate-instagram/commit/30dcf5672e9ee204a23151d78a6635bc332ba6ad))
+
+
+### Features
+
+* name attribute and variable renamed to key ([e3200db](https://github.com/CoCreate-app/CoCreate-instagram/commit/e3200db516ccf50ec4cd22ac4f44038dbed4d006))
+
 ## [1.4.29](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.28...v1.4.29) (2023-06-14)
 
 
