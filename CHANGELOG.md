@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.5.0...v1.6.0) (2023-08-17)
+
+
+### Features
+
+* bump cocreate dependencies for the latest updates and features ([f2695bd](https://github.com/CoCreate-app/CoCreate-instagram/commit/f2695bd3478abe54a6a6af509cd0faebe513a9ba))
+
 # [1.5.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.4.29...v1.5.0) (2023-08-16)
 
 
