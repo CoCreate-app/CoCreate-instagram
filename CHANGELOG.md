@@ -1,3 +1,12 @@
+## [1.6.1](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.6.0...v1.6.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([5088138](https://github.com/CoCreate-app/CoCreate-instagram/commit/508813857af003d8b8741e15140b4c5f2081da60))
+* replace cdn with /dist ([8011290](https://github.com/CoCreate-app/CoCreate-instagram/commit/801129025555faca20d56096dfa795cf8e42b560))
+* update file uploader ([6513a61](https://github.com/CoCreate-app/CoCreate-instagram/commit/6513a615fdb2e676bab1fd21a79b71e78452077c))
+
 # [1.6.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.5.0...v1.6.0) (2023-08-17)
 
 
