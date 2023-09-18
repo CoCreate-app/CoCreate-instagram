@@ -1,3 +1,11 @@
+## [1.7.2](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.7.1...v1.7.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([2afc22b](https://github.com/CoCreate-app/CoCreate-instagram/commit/2afc22b6d09fdad7baf099481e02cbf657f88dee))
+* Update CoCreate depndencies to latest versions ([a73878f](https://github.com/CoCreate-app/CoCreate-instagram/commit/a73878f2ebf60cf8c26e4b435b3a8b5c3505d6da))
+
 ## [1.7.1](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.7.0...v1.7.1) (2023-08-21)
 
 
