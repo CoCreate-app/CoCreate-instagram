@@ -1,3 +1,11 @@
+## [1.8.6](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.8.5...v1.8.6) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([94dfa88](https://github.com/CoCreate-app/CoCreate-instagram/commit/94dfa88312b1e9383ddd36841ed37ad84e98c18f))
+* update host ([056ae72](https://github.com/CoCreate-app/CoCreate-instagram/commit/056ae723d4937a0129b1a658f08b6babdc946e7c))
+
 ## [1.8.5](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.8.4...v1.8.5) (2023-11-03)
 
 
