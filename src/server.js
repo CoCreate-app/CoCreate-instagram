@@ -42,7 +42,7 @@ class CoCreateInstagram {
                     response = this.getUserProfile(socket, action, params);
                     break;
             }
-            this.wsManager.send(socket, { method: this.name, action, response })
+            this.wsManager.send({ socket, method: this.name, action, response })
         } catch (error) {
             this.handleError(socket, action, error)
         }
@@ -57,7 +57,8 @@ class CoCreateInstagram {
                 'data': 'testing success',
             };
 
-            api.send_response(this.wsManager, socket, { "action": action, "response": response }, this.name);
+            this.wsManager.send({ socket, "method": action, "response": response })
+
         } catch (error) {
             this.handleError(socket, action, error)
         }
@@ -68,7 +69,7 @@ class CoCreateInstagram {
             'object': 'error',
             'data': error.message || error,
         };
-        this.wsManager.send(socket, { method: this.name, action, response })
+        this.wsManager.send({ socket, method: this.name, action, response })
     }
 }//end Class 
 
