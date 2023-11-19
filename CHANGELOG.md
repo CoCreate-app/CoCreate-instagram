@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.8.7...v1.9.0) (2023-11-19)
+
+
+### Bug Fixes
+
+* removed dead code ([ff631e6](https://github.com/CoCreate-app/CoCreate-instagram/commit/ff631e6d8f116b6fb81e98c8599ca490557e0622))
+
+
+### Features
+
+* update dependecies for th latest features and bug fixes ([fe68990](https://github.com/CoCreate-app/CoCreate-instagram/commit/fe68990edac4ec6fcb6ed1e02f54bd9a47ac25c1))
+
 ## [1.8.7](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.8.6...v1.8.7) (2023-11-12)
 
 
