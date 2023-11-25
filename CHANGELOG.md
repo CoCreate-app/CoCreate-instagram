@@ -1,3 +1,15 @@
+# [1.10.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.9.0...v1.10.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([17295df](https://github.com/CoCreate-app/CoCreate-instagram/commit/17295dfba451ca06c27248a556735a6e92879ee6))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([32623bc](https://github.com/CoCreate-app/CoCreate-instagram/commit/32623bc5dccb10fe2684e152ffaa96f03a282b50))
+
 # [1.9.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.8.7...v1.9.0) (2023-11-19)
 
 
