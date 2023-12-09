@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.11.0...v1.11.1) (2023-12-09)
+
+
+### Bug Fixes
+
+* getOrg() renamed to getOrganization() ([a079a5b](https://github.com/CoCreate-app/CoCreate-instagram/commit/a079a5b35089f3a788801e89e0d71c23d7c9b43b))
+
 # [1.11.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.10.0...v1.11.0) (2023-11-25)
 
 
