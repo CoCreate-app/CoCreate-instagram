@@ -1,3 +1,10 @@
+## [1.11.2](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.11.1...v1.11.2) (2024-02-03)
+
+
+### Bug Fixes
+
+*  removed from clinet.js ([5f52c22](https://github.com/CoCreate-app/CoCreate-instagram/commit/5f52c222b3ddf131dda675d7728f2edf1c5b208b))
+
 ## [1.11.1](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.11.0...v1.11.1) (2023-12-09)
 
 
