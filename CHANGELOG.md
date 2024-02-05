@@ -1,3 +1,10 @@
+## [1.11.3](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.11.2...v1.11.3) (2024-02-05)
+
+
+### Bug Fixes
+
+* Removed https://cdn.cocreate.app/latest/CoCreate.min.css ([2b1a5d2](https://github.com/CoCreate-app/CoCreate-instagram/commit/2b1a5d22b57eed5e52fe85f28902eb9ab13d0f95))
+
 ## [1.11.2](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.11.1...v1.11.2) (2024-02-03)
 
 
