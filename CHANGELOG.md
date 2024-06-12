@@ -1,3 +1,11 @@
+## [1.11.5](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.11.4...v1.11.5) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([91f59c4](https://github.com/CoCreate-app/CoCreate-instagram/commit/91f59c4f9d7b27ffbc098f207347969c91b5983f))
+* svg icon class ([4691eef](https://github.com/CoCreate-app/CoCreate-instagram/commit/4691eef5bad8d65841489fe97a11ceef53b188ee))
+
 ## [1.11.4](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.11.3...v1.11.4) (2024-04-29)
 
 
