@@ -1,3 +1,15 @@
+# [1.12.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.11.5...v1.12.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([8dbc76b](https://github.com/CoCreate-app/CoCreate-instagram/commit/8dbc76b62f365ee029aec89d5c368ff1495c1552))
+
+
+### Features
+
+* add prettier.config.js and format files ([a807360](https://github.com/CoCreate-app/CoCreate-instagram/commit/a807360a51d1e09de24bd5aed09d1eae1449430b))
+
 ## [1.11.5](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.11.4...v1.11.5) (2024-06-12)
 
 
