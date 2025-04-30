@@ -1,3 +1,13 @@
+## [1.12.1](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.12.0...v1.12.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([abddd80](https://github.com/CoCreate-app/CoCreate-instagram/commit/abddd80ef298a7253fbb62d4b1ac6a9ef94ce337))
+* update query attributes ([5572d64](https://github.com/CoCreate-app/CoCreate-instagram/commit/5572d64e3eda3be2658feb72a880830859728412))
+* updated cocreate modules versions ([d6bcd8b](https://github.com/CoCreate-app/CoCreate-instagram/commit/d6bcd8beeb99ff7d3b6dc42d5b9692e3f1a757d1))
+* webpack.config and devdependencies ([7a6d60c](https://github.com/CoCreate-app/CoCreate-instagram/commit/7a6d60cf4e144c3b442923c0e7f082b6f2cc700c))
+
 # [1.12.0](https://github.com/CoCreate-app/CoCreate-instagram/compare/v1.11.5...v1.12.0) (2024-11-04)
 
 
